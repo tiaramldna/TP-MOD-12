@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670772586 source:/Users/mutiaramaulidina/Documents/TP12/flight.cpp
+	"flight.h"
+
+1670772586 /Users/mutiaramaulidina/Documents/TP12/flight.h
+	<iostream>
+
+1670772586 source:/Users/mutiaramaulidina/Documents/TP12/main.cpp
+	<iostream>
+	"flight.h"
+
